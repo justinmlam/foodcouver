@@ -25,20 +25,25 @@ Next, we will look at categorical data of the same properties. The graphs above 
 
 ### Geographic Statistics
 Lastly, we have data for the areas of Vancouver, BC for average rating, restaurant density, average price, and review count.
+
+**Average Rating**
 ![average_rating](https://user-images.githubusercontent.com/50093891/79916236-3cd7ad00-83dd-11ea-8524-81051448bf93.png)
-Average rating
 It seems that the average ratings are distributed throughout Vancouver, with Victoria-Fraserview being the worst area to go for food.
 
+
+**Restaurant Density**
 ![restaurant_density](https://user-images.githubusercontent.com/50093891/79916255-46611500-83dd-11ea-8d58-d0f3a522621b.png)
-Restaurant density
 It's no surprise that downtown Vancouver has the most restaurants, with the numbers decreasing as the city becomes more residential.
 
+
+**Average Price**
 ![average_price](https://user-images.githubusercontent.com/50093891/79916303-5842b800-83dd-11ea-837f-d5e70073cd59.png)
 Average price
 Unfortunately, there was a large amount of data missing (about 25% of total data) for price of restaurants. There isn't enough data in this field to make a hypothesis with. However, it surprises me that the price data for the most dense area of restaurants is missing, which may be an indicator that something is wrong with the investigation.
 
+
+**Review Count**
 ![review_count](https://user-images.githubusercontent.com/50093891/79916348-6b558800-83dd-11ea-9438-d92d6b1fc351.png)
-Average review count
 It's pretty surprising to see that the area with the highest restaurant reviews are located more in the western side of Vancouver, given that the highest density of restaurants is downtown. The average ratings for that area are not particularly high, either. A possibility is that the western side of Vancouver has a particularly committed customer base, or Yelp is popular within that community.
 
 
