@@ -1,6 +1,6 @@
 # foodcouver
 
-## https://nbviewer.jupyter.org/github/justinmlam/yelp_in_vancouver/blob/master/yelp_project.ipynb
+https://nbviewer.jupyter.org/github/justinmlam/foodcouver/blob/master/foodcouver.ipynb
 
 # Legality
 This is a personal project made for non-commercial uses ONLY. This project will not be used to generate any promotional or monetary value for me, the creator, or the user.
