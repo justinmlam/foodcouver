@@ -5,7 +5,7 @@
 * [Findings](#findings)
   * [Summary Statistics](#summary-statistics)
   * [Categorical Statistics](#categorical-statistics)
-  * [Geographic Statistics](#geographic-statistics)W
+  * [Geographic Statistics](#geographic-statistics)
 * [Usage](#usage)
 * [Legality](#legality)
 
