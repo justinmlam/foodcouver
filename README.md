@@ -32,7 +32,7 @@ In this exploratory data analysis, I found out answers to these questions and mo
 Here are the general summary statistics for restaurants in Vancouver, BC, according to Yelp data. As we can see in the above graphs, most restaurants have < 500 reviews, most are within a rating of 3.0 - 4.0, and majority are given a double money sign in terms of price ($$).
 
 ### Categorical Statistics
-![category](https://user-images.githubusercontent.com/50093891/79916208-2d586400-83dd-11ea-926a-c474a0be4a21.png)
+![category](https://user-images.githubusercontent.com/50093891/80263801-b2928180-8646-11ea-9e51-1040f3e7592e.png)
 Next, we will look at categorical data of the same properties. The graphs above show the top 5 for each property, but you will be able to see more results in the main project notebook. This data suggests that most categories are pretty close in terms of average price, rating, and review count. We have many chinese restaurants in Vancouver, BC.
 
 ### Geographic Statistics
