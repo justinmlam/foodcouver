@@ -1,17 +1,29 @@
-# foodcouver
+# FOODCOUVER: An exploratory data analysis on the food scene in Vancouver, BC, Canada 
 
 ## Table of Contents
 * [Background](#background)
 * [Findings](#findings)
   * [Summary Statistics](#summary-statistics)
   * [Categorical Statistics](#categorical-statistics)
-  * [Geographic Statistics](#geographic-statistics)
+  * [Geographic Statistics](#geographic-statistics)W
 * [Usage](#usage)
 * [Legality](#legality)
 
 ## Background
 
-This project is a statistical analysis on restaurants in Vancouver, Canada, using YELP API data. I used the YELP API to scrape summary data for the lower mainland (25 miles within the google search, "Vancouver, BC") and collected 1000 restaurants for each category so all types of restaurants are included. Any repeat restaurants were removed.
+As a self-proclaimed "foodie" in Vancouver, BC, I wanted to find out more than just how the food tastes, but the experience that my fellow residents (or tourists!) had within my own beloved city. I wanted to prove or disprove current ideas, such as how the best food comes from downtown, as well as find out new facts about the city I have been living in for the last 24 years. 
+
+
+* Are we an expensive city to eat in? 
+
+
+* On average, where are the highest rated restaurants located? 
+
+
+* Which genre of cuisine is the most common to find? 
+
+
+In this exploratory data analysis, I found out answers to these questions and more with my trusty friend; data.
 
 ## Findings
 
